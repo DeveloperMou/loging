@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(215, 210, 223, 0.63); 
+ }
+ .header {
+     box-shadow: 7px 5px 78px #24698a;
+     padding: 45px;
+     border-radius: 94px 0px 163px 6px;
+     width: 702px;
+     margin: auto;
+ }
+ img{width: 200px;
+ display: inline-block;}
+
+ .img1 img{margin: auto;
+         width: 400px;}
+.im{
+    text-align: center;
+    }
+    .img1 {
+    margin: 20px;
+}
+.container {
+    width: 500px;
+}
